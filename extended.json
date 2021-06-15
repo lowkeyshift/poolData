@@ -1,59 +1,34 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/lowkeyshift/poolData/main/icons8-magic-crystal-ball-64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/lowkeyshift/poolData/main/icons8-magic-crystal-ball-64.png",
+        "location": "Boston, United States",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "twitter_handle": "WMSYstakingpool",
+            "telegram_handle": "Somethinginteresting",
+            "youtube_handle": "EddyCarra",
+            "discord_handle": "EDDYCARRA[ADAPOOL - WMSY]#7845",
+            "github_handle": "lowkeyshift"
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "Whimsy Tech",
+            "addr": "",
+            "city": "Boston",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "server": "Cloud based deployment to DigitalOcean",
+            "company": "Whimsy is an inspiration to make NFT AR games and to offer delegators an opportunity to earn rewards for staking loyalty."
         }
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "pool19nhmxfd2tts089nx742g8jtc2ynwstkhp2594y0wwp6d5we25f6",
+        "1": "2cefb325aa5ae0f39666f55483c9785126e82ed70aa85a91ee7074da"
     },
     "telegram-admin-handle": {
-        "0": "your_tg_handle"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
+        "0": "somethinginteresting"
     }
 }
