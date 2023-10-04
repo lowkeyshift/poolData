@@ -2,18 +2,17 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/lowkeyshift/poolData/main/icons8-magic-crystal-ball-64.png",
         "url_png_logo": "https://raw.githubusercontent.com/lowkeyshift/poolData/main/icons8-magic-crystal-ball-64.png",
-        "location": "Boston, United States",
+        "location": "United States",
         "social": {
-            "twitter_handle": "WMSYstakingpool",
-            "telegram_handle": "Somethinginteresting",
-            "youtube_handle": "EddyCarra",
-            "discord_handle": "EDDYCARRA[ADAPOOL - WMSY]#7845",
-            "github_handle": "lowkeyshift"
+            "twitter_handle": "wmsy_estates",
+            "youtube_handle": "wmsy_estates",
+            "discord_handle": "EDDYCARRA",
+            "github_handle": "PlatypusAlpha"
         },
         "company": {
-            "name": "Whimsy Tech",
+            "name": "Whimsy",
             "addr": "",
-            "city": "Boston",
+            "city": "Delaware",
             "country": "United States",
             "company_id": "",
             "vat_id": ""
@@ -21,7 +20,7 @@
         "about": {
             "me": "...",
             "server": "Cloud based deployment to DigitalOcean",
-            "company": "Whimsy is an inspiration to make NFT AR games and to offer delegators an opportunity to earn rewards for staking loyalty."
+            "company": "Whimsy: Fractionalized Real Estate Investing."
         }
     },
     "my-pool-ids": {
@@ -29,6 +28,6 @@
         "1": "2cefb325aa5ae0f39666f55483c9785126e82ed70aa85a91ee7074da"
     },
     "telegram-admin-handle": {
-        "0": "somethinginteresting"
+        "0": "eddycarra"
     }
 }
