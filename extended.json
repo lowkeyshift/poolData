@@ -19,15 +19,12 @@
         },
         "about": {
             "me": "...",
-            "server": "Cloud based deployment to DigitalOcean",
-            "company": "Whimsy: Fractionalized Real Estate Investing."
+            "server": "Datacenter deployment handled by Anvil",
+            "company": "Whimsy.LLC"
         }
     },
     "my-pool-ids": {
         "0": "pool19nhmxfd2tts089nx742g8jtc2ynwstkhp2594y0wwp6d5we25f6",
         "1": "2cefb325aa5ae0f39666f55483c9785126e82ed70aa85a91ee7074da"
-    },
-    "telegram-admin-handle": {
-        "0": "eddycarra"
     }
 }
